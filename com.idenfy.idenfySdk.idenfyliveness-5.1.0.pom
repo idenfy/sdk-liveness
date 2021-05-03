@@ -14,7 +14,7 @@
   <dependencies>
     <dependency>
       <groupId>com.github.idenfy</groupId>
-      <artifactId>facetec-sdk</artifactId>
+      <artifactId>sdk-facetec</artifactId>
       <version>9.0.4</version>
       <type>aar</type>
       <scope>compile</scope>
